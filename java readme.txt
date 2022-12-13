@@ -25,3 +25,5 @@ insert into fio_list values (1, 'john smith');
 
 hibernate
 Project-add framework support
+set hibernate.cfg.xml
+create AnnotatedClass
